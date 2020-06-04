@@ -1,1 +1,1 @@
-a = "da thay doi lan n + 1"
+a = "da thay doi lan "
